@@ -1,15 +1,20 @@
 # Data Management 
 deploy elastic &amp; kibana with docker-compose
 
+# Install & Commands
+docker-compose up -d
+docker-compose down
+
 # elastic search
 No SQL DB
+@ excute 
+
 
 # kibana
 data visualizing 
 
-# Install & Commands
-docker-compose up -d
-docker-compose down
+
+
 
 # TroubleShoot 
 Case 1. vm.max_map error : increase max.map.count
