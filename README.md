@@ -7,7 +7,7 @@ docker-compose down
 
 # elastic search
 No SQL DB
-@ excute 
+- excute 
 
 
 # kibana
